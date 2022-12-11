@@ -48,7 +48,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String imagePath = 'hoge';
+  String imagePath = 'https://pngimg.com/uploads/dog/dog_PNG172.png';
 
   void DrawImage(String _name, String _image)
   {
